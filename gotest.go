@@ -11,6 +11,7 @@ type MinStack struct {
 	nums []int
 }
 
+
 func Constructor() MinStack {
 
 	minStack := MinStack{nums: []int{}}
